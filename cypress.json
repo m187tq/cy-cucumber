@@ -1,0 +1,16 @@
+{
+  "video": false,
+  "defaultCommandTimeout": 5000,
+  "baseUrl": "http://zero.webappsecurity.com/index.html",
+  "pageLoadTimeout": 10000,
+  "watchForFileChanges": false,
+  "viewportHeight": 600,
+  "viewportWidth": 1000,
+  "requestTimeout": 15000,
+  "responseTimeout": 15000,
+  "failOnStatusCode": false,
+  "animationDisanceTreshold": 20,
+
+  "ignoreTestFiles": ["*.js", "*.md"]
+
+}
